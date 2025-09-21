@@ -1,33 +1,29 @@
-# 🚀 Project Name
+# 👋 Hi, I'm Rahma Hesham
 
-A short and clear description about what this project does and who it's for.  
-Example: "An AI-powered tool that detects early signs of mental health issues using facial expressions and responses."
-
----
-
-## 📸 Demo / Screenshot
-![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)
+![Profile Views](https://komarev.com/ghpvc/?username=Rahma-Hesham&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/Rahma-Hesham?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Rahma-Hesham?style=social)
 
 ---
 
-## ✨ Features
-- 🔥 Modern and responsive design  
-- ⚡ Fast and optimized performance  
-- 🧠 Smart logic with clean code  
-- 🛠 Easy to install and run  
+## 🚀 About Me  
+💻 2nd-year Computer & AI Student at Minya National University  
+📚 Passionate about *Problem Solving, C++, AI Basics*  
+🌱 Currently learning *Java, Databases, Networks*  
+🎯 Goal: Build AI-powered apps & compete in programming contests  
 
 ---
 
-## 🛠 Tech Stack
-- *Languages:* C++, Python, JavaScript  
-- *Frameworks/Libraries:* React, Node.js  
-- *Database:* MySQL / SQLite  
-- *Tools:* Git, VS Code, Docker  
+## 🛠 Tools & Technologies  
 
----
-
-## 📦 Installation
-
-1. *Clone the repository*
-```bash
-git clone https://github.com/username/repo-name.git 
+```js
+class AboutMe {
+  const tools = {
+    "ProgrammingLanguages": { "C++", "C#", "Java", "Python", "HTML", "CSS" },
+    "OtherSkills": { "Problem Solving", "Basic Data Analysis", "AI Basics" },
+    "Databases": { "SQL" },
+    "Editors": { "VS Code", "Visual Studio" },
+    "Platforms": { "Windows", "Linux" },
+    "OtherTools": { "Git", "Figma" }
+  };
+}
